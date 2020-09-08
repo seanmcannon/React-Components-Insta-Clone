@@ -1,4 +1,4 @@
-# React-Components-Insta-Clone
+# React-Comp onents-Insta-Clone
 
 ## Composing React Components and Passing Data Via Props
 
